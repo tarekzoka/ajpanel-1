@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#wget -q "--no-check-certificate" https://raw.githubusercontent.com/emil237/ajpanel/main/installer.sh -O - | /bin/sh
+#wget -q "--no-check-certificate" https://raw.githubusercontent.com/tar1971/ajpanel/main/installer.sh -O - | /bin/sh
 
 ##########################################
 version=3.2.3
@@ -36,7 +36,7 @@ rm -f /tmp/*.deb
 echo ">>>>  SUCCESSFULLY INSTALLED <<<<"
 fi
 		echo "********************************************************************************"
-echo "   UPLOADED BY  >>>>   EMIL_NABIL "   
+echo "   UPLOADED BY  >>>>   TAR_1971 "   
 sleep 4;
 		echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
