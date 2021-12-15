@@ -36,7 +36,7 @@ rm -f /tmp/*.deb
 echo ">>>>  SUCCESSFULLY INSTALLED <<<<"
 fi
 		echo "********************************************************************************"
-echo "   UPLOADED BY  >>>>   TAR_1971 "   
+echo "   UPLOADED BY  >>>>   EMIL_NABIL "   
 sleep 4;
 		echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
