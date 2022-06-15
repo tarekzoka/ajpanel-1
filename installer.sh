@@ -3,7 +3,7 @@
 #wget -q "--no-check-certificate" https://raw.githubusercontent.com/tar1971/ajpanel/main/installer.sh -O - | /bin/sh
 
 ##########################################
-version=5.1.0
+version=5.3.0
 #############################################################
 TEMPATH=/tmp
 OPKGINSTALL="opkg install --force-reinstall"
