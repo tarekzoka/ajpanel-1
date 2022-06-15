@@ -1,7 +1,8 @@
 #!/bin/sh
 
 #wget -q "--no-check-certificate" https://raw.githubusercontent.com/tar1971/ajpanel/main/installer.sh -O - | /bin/sh
-
+#!/bin/sh
+echo
 ##########################################
 version=5.3.0
 #############################################################
